@@ -8,7 +8,7 @@ Awesome git:
 https://github.com/dictcp/awesome-git 
 
 
-Awesome Git:
+GitHub:
 https://github.com/phillipadsmith/awesome-github 
 
 
