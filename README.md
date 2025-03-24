@@ -4,7 +4,7 @@
 https://github.com/arslanbilal/git-cheat-sheet 
 
 
-Awesome git:
+Awesome github:
 https://github.com/dictcp/awesome-git 
 
 
